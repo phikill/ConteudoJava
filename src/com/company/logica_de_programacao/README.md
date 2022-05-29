@@ -21,5 +21,4 @@
 ----
 ### [09 - ALgoritmos Avançado ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/algoritmos_avancado/)
 ----
-### [10 - Acessando Atributos de Objetos ](https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java/tree/main/ExerciciosDeExemplo/acessando_atributos_de_objetos/)
-----
+
