@@ -1,4 +1,4 @@
-
+package com.company.orientacao_a_objetos.orientacao_a_objetos_parte1.array.trabalhando_com_arrays;
 public class TesteArrays {
     public static void main(String[] args) {
         int[] notas = new int[4];
